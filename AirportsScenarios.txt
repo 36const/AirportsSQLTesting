@@ -1,0 +1,23 @@
+Simple scenarios: 
+1)check airports 
+2)check flights 
+3)check airlines 
+
+Complex scenarios:
+1)combination of airport and flight
+2)combination of flight and airline
+3)combination of airport and airline
+
+Stories scenarios:
+Story 1:
+User is going to plan a trip from London to Munich for his family of 4 people. 
+Their family budget is too poor for tickets more expensive than 120 Euro/person.
+They are going to trip with a little baby, so it's crucial to order additional space for baby carriage and priority boarding
+
+Story 2:
+Where the greedy bachelor from New York can fly without stops when he has just 500 Euro? 
+All he needs are free food on board and Duty Free shops in his destination airport
+
+Story 3:
+What airlines provide flights to Milan and Helsinki, where user can register his boarding pass via Internet?
+Tickets can be considered as sold if the average ticket's price of all flights for chosen airline (-s) < 100 Euro
